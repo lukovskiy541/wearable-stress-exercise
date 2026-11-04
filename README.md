@@ -31,7 +31,7 @@ Wearable Device Dataset from Induced Stress and Structured Exercise Sessions v1.
 - `wearable_stress_exercise.ipynb`: завантаження даних, сегментація, ознаки, три моделі, усі таблиці й рисунки.
 - `report.pdf`: звіт з лабораторної роботи.
 - `presentation.pptx`: презентація до захисту, 11 слайдів.
-- `speech.txt`: текст виступу до кожного слайда.
+- `speech.pdf`: текст виступу до кожного слайда.
 
 ## Запуск
 
